@@ -1,2 +1,5 @@
 # Python-Projects
- A collection of small random python projects
+
+A collection of small random python projects.
+
+- ## Live Weather using BeautifulSoup
